@@ -1,0 +1,20 @@
+# Core (installed and confirmed working)
+pandas
+numpy
+scipy
+scikit-learn
+matplotlib
+seaborn
+mplsoccer
+shapely
+joblib
+pillow
+adjustText
+highlight_text
+
+# Optional / only needed for specific scripts
+# tensorflow        # only for the alternative neural-net xG model comparison
+# understatapi       # works for schema/client convenience, but understat.com
+                      # is blocked by this environment's egress rules when called
+                      # from Python directly (requests/urllib3) - see README.
+                      # Data pulls currently go through the browser instead.

@@ -1,0 +1,15 @@
+{
+  "team": "Paris Saint Germain",
+  "season": "2026",
+  "source": "https://understat.com/getTeamData/Paris%20Saint%20Germain/2026",
+  "pulled_at": "2026-10-10",
+  "matches": [
+    {"id": "31948", "side": "h", "home": {"id": "161", "title": "Paris Saint Germain", "short_title": "PSG"}, "away": {"id": "163", "title": "Rennes", "short_title": "REN"}, "goals": {"h": 0, "a": 0}, "xG": {"h": 0.63016, "a": 0.910543}, "datetime": "2026-08-23 18:45:00", "forecast": {"w": 0.24098021950683174, "d": 0.3559515829207991, "l": 0.40306819757228857}, "result": "d"},
+    {"id": "31949", "side": "a", "home": {"id": "160", "title": "Lille", "short_title": "LIL"}, "away": {"id": "161", "title": "Paris Saint Germain", "short_title": "PSG"}, "goals": {"h": 2, "a": 2}, "xG": {"h": 1.16266, "a": 1.78135}, "datetime": "2026-08-28 18:45:00", "forecast": {"w": 0.24834557529843013, "d": 0.2329945608211457, "l": 0.5186598630423863}, "result": "d"},
+    {"id": "31960", "side": "h", "home": {"id": "161", "title": "Paris Saint Germain", "short_title": "PSG"}, "away": {"id": "171", "title": "Monaco", "short_title": "MON"}, "goals": {"h": 1, "a": 2}, "xG": {"h": 2.52357, "a": 0.601454}, "datetime": "2026-09-04 19:05:00", "forecast": {"w": 0.7916562765912921, "d": 0.1406245230158597, "l": 0.0677191225092056}, "result": "l"},
+    {"id": "31975", "side": "a", "home": {"id": "241", "title": "Brest", "short_title": "BRE"}, "away": {"id": "161", "title": "Paris Saint Germain", "short_title": "PSG"}, "goals": {"h": 0, "a": 1}, "xG": {"h": 1.24238, "a": 1.33411}, "datetime": "2026-09-13 18:45:00", "forecast": {"w": 0.3459398463429339, "d": 0.26498354837684623, "l": 0.38907660525743554}, "result": "w"},
+    {"id": "31984", "side": "a", "home": {"id": "164", "title": "Marseille", "short_title": "MAR"}, "away": {"id": "161", "title": "Paris Saint Germain", "short_title": "PSG"}, "goals": {"h": 1, "a": 2}, "xG": {"h": 1.86575, "a": 4.67277}, "datetime": "2026-09-20 18:45:00", "forecast": {"w": 0.0907700921743095, "d": 0.08922084630741768, "l": 0.8198984406273002}, "result": "w"}
+  ],
+  "upcoming_next": {"id": "31991", "home": "Paris Saint Germain", "away": "Le Mans", "datetime": "2026-10-10 18:45:00"},
+  "note": "Only completed (isResult:true) matches included here. PSG-perspective: results w/d/l from PSG's side = D, D, L, W, W. Goals scored 0,2,1,1,2 = 6; conceded 0,2,2,0,1 = 5. Much streakier/less dominant start than Barcelona's."
+}

@@ -1,0 +1,17 @@
+{
+  "team": "Barcelona",
+  "season": "2026",
+  "source": "https://understat.com/getTeamData/Barcelona/2026",
+  "pulled_at": "2026-10-10",
+  "matches": [
+    {"id": "30783", "side": "a", "home": {"id": "207", "title": "Elche", "short_title": "ELC"}, "away": {"id": "148", "title": "Barcelona", "short_title": "BAR"}, "goals": {"h": 0, "a": 5}, "xG": {"h": 1.17646, "a": 4.25182}, "datetime": "2026-08-23 19:30:00", "forecast": {"w": 0.05204633714830029, "d": 0.07495635122098306, "l": 0.8729578049903348}, "result": "w"},
+    {"id": "30789", "side": "h", "home": {"id": "148", "title": "Barcelona", "short_title": "BAR"}, "away": {"id": "147", "title": "Athletic Club", "short_title": "ATH"}, "goals": {"h": 2, "a": 0}, "xG": {"h": 3.9166, "a": 0.221962}, "datetime": "2026-08-27 19:00:00", "forecast": {"w": 0.9609809237504812, "d": 0.0331281183192773, "l": 0.005875267599472769}, "result": "w"},
+    {"id": "30799", "side": "h", "home": {"id": "148", "title": "Barcelona", "short_title": "BAR"}, "away": {"id": "145", "title": "Rayo Vallecano", "short_title": "RVL"}, "goals": {"h": 5, "a": 2}, "xG": {"h": 2.9576, "a": 1.06614}, "datetime": "2026-08-31 19:30:00", "forecast": {"w": 0.7566022335246103, "d": 0.13781282035580433, "l": 0.10558438294750859}, "result": "w"},
+    {"id": "30805", "side": "a", "home": {"id": "146", "title": "Valencia", "short_title": "VAL"}, "away": {"id": "148", "title": "Barcelona", "short_title": "BAR"}, "goals": {"h": 0, "a": 5}, "xG": {"h": 0.518846, "a": 4.76916}, "datetime": "2026-09-06 14:15:00", "forecast": {"w": 0.009198644225709178, "d": 0.02777519932258971, "l": 0.9628886025942053}, "result": "w"},
+    {"id": "30814", "side": "a", "home": {"id": "151", "title": "Levante", "short_title": "LEV"}, "away": {"id": "148", "title": "Barcelona", "short_title": "BAR"}, "goals": {"h": 2, "a": 4}, "xG": {"h": 2.67442, "a": 2.46861}, "datetime": "2026-09-13 14:15:00", "forecast": {"w": 0.44517867351974105, "d": 0.1801385839691853, "l": 0.3746825218317992}, "result": "w"},
+    {"id": "30826", "side": "h", "home": {"id": "148", "title": "Barcelona", "short_title": "BAR"}, "away": {"id": "293", "title": "Racing Santander", "short_title": "RAS"}, "goals": {"h": 7, "a": 2}, "xG": {"h": 7.47528, "a": 1.38402}, "datetime": "2026-09-16 19:30:00", "forecast": {"w": 0.9676242781294723, "d": 0.014197924030522193, "l": 0.008193831211377085}, "result": "w"},
+    {"id": "30837", "side": "a", "home": {"id": "138", "title": "Sevilla", "short_title": "SEV"}, "away": {"id": "148", "title": "Barcelona", "short_title": "BAR"}, "goals": {"h": 1, "a": 3}, "xG": {"h": 0.758355, "a": 3.56261}, "datetime": "2026-09-19 19:00:00", "forecast": {"w": 0.042239517834605986, "d": 0.08208260530968643, "l": 0.8756726259059662}, "result": "w"}
+  ],
+  "upcoming_next": {"id": "30843", "home": "Barcelona", "away": "Getafe", "datetime": "2026-10-10 16:30:00"},
+  "note": "Only completed (isResult:true) matches included here. Barcelona-perspective goals: 5,2,5,5,4,7,3 = 31 goals in 7 wins, 7 conceded. Confirms the user's premise (first 7 wins, 30+ goals) against real data."
+}
