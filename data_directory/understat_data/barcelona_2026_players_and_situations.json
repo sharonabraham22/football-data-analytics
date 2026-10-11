@@ -1,0 +1,39 @@
+{
+  "team": "Barcelona",
+  "season": "2026",
+  "source": "https://understat.com/getTeamData/Barcelona/2026",
+  "pulled_at": "2026-10-11",
+  "note": "Season-to-date (8 matches) player stats and shot-situation/zone/timing breakdowns, from the same getTeamData pull as barcelona_2026_matches.json. Not yet loaded by understat_data_engineering.py - raw reference for later analysis.",
+  "players": [
+    {"player_name": "Raphinha", "games": 7, "minutes": 577, "goals": 12, "xG": 9.058, "assists": 3, "xA": 2.645, "shots": 25, "key_passes": 14, "position": "F"},
+    {"player_name": "Lamine Yamal", "games": 8, "minutes": 682, "goals": 7, "xG": 6.394, "assists": 5, "xA": 5.063, "shots": 44, "key_passes": 30, "position": "F M"},
+    {"player_name": "Fermín López", "games": 7, "minutes": 479, "goals": 4, "xG": 2.908, "assists": 2, "xA": 2.117, "shots": 13, "key_passes": 12, "position": "M S"},
+    {"player_name": "Gabriel Jesus", "games": 4, "minutes": 105, "goals": 2, "xG": 0.820, "assists": 0, "xA": 0.250, "shots": 5, "key_passes": 3, "position": "F S"},
+    {"player_name": "Karim Adeyemi", "games": 8, "minutes": 237, "goals": 2, "xG": 4.288, "assists": 2, "xA": 1.541, "shots": 16, "key_passes": 9, "position": "F M S"},
+    {"player_name": "João Cancelo", "games": 6, "minutes": 192, "goals": 1, "xG": 0.139, "assists": 0, "xA": 0.105, "shots": 5, "key_passes": 1, "position": "D S"},
+    {"player_name": "Jules Koundé", "games": 5, "minutes": 253, "goals": 1, "xG": 0.821, "assists": 0, "xA": 0.048, "shots": 2, "key_passes": 3, "position": "D S"},
+    {"player_name": "Anthony Gordon", "games": 7, "minutes": 492, "goals": 1, "xG": 2.880, "assists": 4, "xA": 1.780, "shots": 15, "key_passes": 9, "position": "F M S"},
+    {"player_name": "Pedri", "games": 8, "minutes": 557, "goals": 1, "xG": 0.623, "assists": 1, "xA": 1.281, "shots": 7, "key_passes": 15, "position": "M S"},
+    {"player_name": "Xavi Espart", "games": 6, "minutes": 536, "goals": 1, "xG": 0.282, "assists": 2, "xA": 1.471, "shots": 6, "key_passes": 5, "position": "D"}
+  ],
+  "players_note": "Trimmed to goal-scorers and notable creators for readability. Full list (including 0-goal defenders/keepers) is in the raw pull if needed.",
+  "shot_situations": {
+    "open_play":      {"shots": 130, "goals": 28, "xG": 24.47, "conceded_shots": 43, "conceded_goals": 6, "conceded_xG": 7.26},
+    "from_corner":     {"shots": 22,  "goals": 2,  "xG": 4.54,  "conceded_shots": 7,  "conceded_goals": 1, "conceded_xG": 0.61},
+    "direct_freekick": {"shots": 9,   "goals": 0,  "xG": 0.61,  "conceded_shots": 1,  "conceded_goals": 0, "conceded_xG": 0.05},
+    "set_piece":       {"shots": 9,   "goals": 0,  "xG": 1.08,  "conceded_shots": 4,  "conceded_goals": 0, "conceded_xG": 0.20},
+    "penalty":         {"shots": 5,   "goals": 4,  "xG": 3.72,  "conceded_shots": 0,  "conceded_goals": 0, "conceded_xG": 0}
+  },
+  "formation_usage": {
+    "4-3-3":    {"minutes": 556, "shots": 133, "goals": 23, "xG": 25.28, "conceded_shots": 37, "conceded_goals": 5, "conceded_xG": 5.85},
+    "4-2-3-1":  {"minutes": 200, "shots": 42,  "goals": 11, "xG": 9.14,  "conceded_shots": 18, "conceded_goals": 2, "conceded_xG": 2.26}
+  },
+  "timing_splits": {
+    "1-15":  {"shots": 28, "goals": 5, "xG": 3.31, "conceded_shots": 4,  "conceded_goals": 1, "conceded_xG": 0.36},
+    "16-30": {"shots": 23, "goals": 7, "xG": 4.43, "conceded_shots": 5,  "conceded_goals": 2, "conceded_xG": 1.30},
+    "31-45": {"shots": 26, "goals": 3, "xG": 5.49, "conceded_shots": 11, "conceded_goals": 0, "conceded_xG": 1.42},
+    "46-60": {"shots": 33, "goals": 5, "xG": 8.33, "conceded_shots": 12, "conceded_goals": 1, "conceded_xG": 1.66},
+    "61-75": {"shots": 29, "goals": 6, "xG": 5.34, "conceded_shots": 8,  "conceded_goals": 1, "conceded_xG": 1.29},
+    "76+":   {"shots": 36, "goals": 8, "xG": 7.52, "conceded_shots": 15, "conceded_goals": 2, "conceded_xG": 2.08}
+  }
+}
